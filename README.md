@@ -20,7 +20,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-We have outlined the layout of our code and come up with everything we want to include. We also separated tasks between the two of us to begin coming up with the code for our designayed parts. 
+We have outlined the layout of our code and come up with everything we want to include. We also separated tasks between the two of us to begin coming up with the code for our designated parts. 
 
 #### What have you not done for your project yet?
 
